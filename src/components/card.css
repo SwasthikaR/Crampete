@@ -1,0 +1,14 @@
+.child{
+    width: 250px;
+    text-align: center;
+    border: 5px solid #61dafb ;
+  }
+  .child p{
+    color: brown;
+  }
+  .child img{
+    width: 85%;
+    margin-top: 15px;
+    
+  }
+  

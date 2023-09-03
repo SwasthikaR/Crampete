@@ -1,0 +1,81 @@
+.headimg{
+    content: " ";
+    background: url("../carimages/head.jpg") no-repeat center/cover;
+    height: 650px;
+    width: 100%;
+    position: relative;
+}
+.head{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.imgryt{
+    background-color: rgb(17, 17, 90);
+    text-align: center;
+    padding-top: 130px;
+}
+.imgryt h1{
+    color: white;
+    font-size: 58px;
+}
+.headbut{
+    background-color: orangered;
+    border-color: orangered;
+    color: white;
+    padding: 15px;
+    width: 150px;
+}
+.search{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.searchbut{
+    color: white;
+    background-color: rgb(17, 17, 90);
+    padding: 15px;
+    width: 180px;
+    border-color: rgb(17, 17, 90);
+    font-size: 18px;
+}
+.search3{
+    padding-top: 42px;
+}
+.searchead{
+    width: 850px;
+    height: 170px;
+    box-shadow: 3px 3px 3px 3px rgb(218, 216, 216);
+    border-radius: 10px;
+    position:absolute;
+    z-index: +1;
+    margin-top: 580px;
+    background-color: white;
+    margin-left: 135px;
+}
+.search input{
+    padding: 10px;
+    width: 190px;
+}
+.search label{
+    color: rgb(152, 151, 151);
+    font-size: 16px;
+}
+.rent4u{
+    position: absolute;
+    color: rgb(17, 17, 90);
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    z-index: +1;
+}
+.rent4u p{
+    margin-left: 720px;
+    color: white;
+    font-size: 18px;
+}
+.headimg img{
+    position: absolute;
+    z-index: +1;
+    margin-top: 600px;
+    margin-left: 1200px;
+}

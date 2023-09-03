@@ -1,0 +1,61 @@
+.req{
+    background-color: rgb(17, 17, 90);
+    height: 740px;
+}
+.reqform{
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+.reqform h2{
+    font-size: 32px;
+}
+.reqform input{
+    padding: 15px;
+}
+.in3, .in4{
+    width: 600px;
+}
+.in4{
+    height: 60px;
+}
+.in1{
+    margin-right: 5px;
+}
+.in1, .in2{
+    width: 280px;
+}
+.in1, .in2, .in3, .in4{
+    font-size: 18px;
+}
+.reqform button{
+    background-color: orangered;
+    border-color: orangered;
+    width: 150px;
+    padding: 15px;
+    color: white;
+    font-size: 16px;
+}
+.socmedia, .reqcon, .reqcon1{
+    display: flex;
+    justify-content: center;
+}
+.reqcon1{
+    margin: 15px;
+    color: white;
+    font-size: 18px;
+}
+.reqcon1 img{
+    padding: 5px;
+}
+.reqcon1 p{
+    padding-top: 10px;
+}
+.socmedia{
+    padding: 30px;
+}
+.gmap{
+    color: grey;
+    font-size: 14px;
+    font-family: monospace;
+}

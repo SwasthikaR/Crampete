@@ -1,0 +1,29 @@
+.chooseback{
+    background-color: rgb(17, 17, 90);
+    padding: 30px;
+}
+.chooseicon{
+    display: flex;
+    justify-content: center;
+    
+}
+.cicon{
+    margin: 30px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.choosebut button{
+    font-size: 17px;
+    width: 200px;
+    padding: 10px;
+}
+.choosebut{
+    text-align: center;
+}
+.choosemain{
+    margin-top: 100px;
+}
+.heading{
+    text-align: center;
+}

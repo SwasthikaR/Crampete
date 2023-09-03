@@ -1,0 +1,44 @@
+.bestmain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 130px;
+    
+}
+.bestapp{
+    background-color: rgb(17, 17, 90);
+    text-align: center;
+    padding-bottom: 80px;
+}
+.bestlist{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-top: 15px;
+    position: relative;
+}
+.bestbut{
+    border-color:white;
+    padding: 15px;
+    width: 250px;
+    margin-top: 60px;
+    font-size: 16px;
+}
+.rent{
+    color: white;
+    background-color: red;
+    width: 150px;
+    margin-left: 115px;
+    position: absolute;
+    z-index: +1;
+    height: 60px;
+    
+}    
+.bestimg{
+    height: 130px;
+    padding: 55px;
+}

@@ -1,0 +1,25 @@
+.blogapp{
+    display: flex;
+    justify-content: space-evenly;
+}
+.latblog{
+    width: 380px;
+    box-shadow: 3px 3px 3px 3px rgb(186, 185, 185);
+    height: 510px;
+}
+.blogimg img{
+    width: 380px;
+    height: 300px;
+}
+.blogdate{
+    text-align: center;
+    font-size: 18px;
+}
+.blogcont{
+    padding-left: 20px;
+    font-size: 18px;
+}
+.bloghead{
+    margin: 70px;
+    margin-left: 200px;
+}

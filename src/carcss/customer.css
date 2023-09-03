@@ -1,0 +1,21 @@
+.custapp{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.custmain{
+    width: 250px;
+    margin: 35px;
+}
+.custcont{
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 3px 3px 3px 3px rgb(186, 185, 185);
+}
+.custicon{
+    text-align: center;
+}
+.custheading{
+    text-align: center;
+    margin-top: 100px;
+}

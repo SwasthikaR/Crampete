@@ -1,0 +1,12 @@
+.bgimg{
+    content: " ";
+    background: url("../images/bg_img3.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.maindiv{
+    padding-top: 50px;
+    width: 1060px;
+    margin: auto;
+}

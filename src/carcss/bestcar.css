@@ -1,0 +1,22 @@
+.best{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    box-shadow: 0px -3px 5px rgb(216, 215, 215);
+}
+.best button{
+    background-color: red;
+    border-color: red;
+    height: 45px;
+    width: 200px;
+    color: white;
+    font-size: 16px;
+    margin-top: 35px;
+    margin-left: 50px;
+}
+.bestcont{
+    margin-right: 50px;
+}
+.bestcont p{
+    font-size: 18px;
+}

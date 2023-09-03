@@ -1,0 +1,26 @@
+.abt{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 120px;
+    height: 680px;
+}
+.abtimg img{
+    height: 680px;
+}
+.abtcont{
+    padding-top: 180px;
+    width: 300px;
+    padding-left: 10px;
+    text-align: center;
+}
+.abtryt{
+    width: 500px;
+}
+.abtcont button{
+    color: white;
+    background-color: red;
+    border: 0px;
+    padding: 15px;
+    width: 150px;
+    font-size: 16px;
+}

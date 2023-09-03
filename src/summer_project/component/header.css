@@ -1,0 +1,21 @@
+.main1{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 15px;
+}
+.left{
+    width: 250px;
+    margin-left: 50px;
+}
+.left p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ryt{
+    display: flex;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+.ryt p{
+    margin: 15px;
+}
